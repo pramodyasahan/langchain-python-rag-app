@@ -1,1 +1,1 @@
-# langchain-nextjs-rag-app
+# Langchain Python Rag App
